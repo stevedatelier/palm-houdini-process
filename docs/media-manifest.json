@@ -1,0 +1,991 @@
+{
+  "project": "palm-process",
+  "source_policy": "Read-only sources; repository contains delivery copies only. No master was overwritten.",
+  "assets": [
+    {
+      "repo": "palm",
+      "name": "clay-growth-closeup",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Capture.PNG",
+      "output": "media/images/clay-growth-closeup.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 2394866,
+      "output_bytes": 715376,
+      "sha256": "a54bd42c7aa9a9bc33b83b7a8d621780e0116dbf8455930dc212ea290f78e484"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-and-stone-test",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Capturefff.PNG",
+      "output": "media/images/grass-and-stone-test.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 2264209,
+      "output_bytes": 388572,
+      "sha256": "ea8d3920e40706d37e28a437322e1da13f274bb78607fa0cf7c0e16e8ad7c38b"
+    },
+    {
+      "repo": "palm",
+      "name": "growth-sketch-02",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (1).png",
+      "output": "media/images/growth-sketch-02.png",
+      "processing": "copied unchanged",
+      "source_bytes": 786048,
+      "output_bytes": 786048,
+      "sha256": "68088363dcd008ef521996324ae2c124597f574e8501307474114bfa2577ed58"
+    },
+    {
+      "repo": "palm",
+      "name": "growth-sketch-03",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (2).png",
+      "output": "media/images/growth-sketch-03.png",
+      "processing": "copied unchanged",
+      "source_bytes": 962759,
+      "output_bytes": 962759,
+      "sha256": "78113a13f98dd19c95f1ff283ea16a4488525e7c68ebc7d0ef56bd1e9b51ff80"
+    },
+    {
+      "repo": "palm",
+      "name": "growth-sketch-04",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (3).png",
+      "output": "media/images/growth-sketch-04.png",
+      "processing": "copied unchanged",
+      "source_bytes": 721809,
+      "output_bytes": 721809,
+      "sha256": "a15a22bcdd68833a61b09303f94ee7cceddb6071a43cc3a0a78f01bdb02230ba"
+    },
+    {
+      "repo": "palm",
+      "name": "growth-sketch-05",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (4).png",
+      "output": "media/images/growth-sketch-05.png",
+      "processing": "copied unchanged",
+      "source_bytes": 745827,
+      "output_bytes": 745827,
+      "sha256": "687898785da1d3b50d0f0b381662718a1eee98b45eee175e93469d73540c3f5f"
+    },
+    {
+      "repo": "palm",
+      "name": "growth-sketch-01",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image.png",
+      "output": "media/images/growth-sketch-01.png",
+      "processing": "copied unchanged",
+      "source_bytes": 772108,
+      "output_bytes": 772108,
+      "sha256": "54d7292776fb93b1deff9a79948af78b9156c143e2c227cf5ab58ff2104505a4"
+    },
+    {
+      "repo": "palm",
+      "name": "pale-mark-test",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-03-21 105159.png",
+      "output": "media/images/pale-mark-test.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 1560200,
+      "output_bytes": 84852,
+      "sha256": "215bde842590820d12b084bce874b2f6aacad72c970243a3218dc78ee6068055"
+    },
+    {
+      "repo": "palm",
+      "name": "mushroom-model-study",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-03-21 145134.png",
+      "output": "media/images/mushroom-model-study.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 1139921,
+      "output_bytes": 178910,
+      "sha256": "08ea2b29a68f90040cdb4aeaf212f2d46b97c28c77e9e2d5d80e22c315953adb"
+    },
+    {
+      "repo": "palm",
+      "name": "dark-lighting-test",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-04-24 013756.png",
+      "output": "media/images/dark-lighting-test.png",
+      "processing": "copied unchanged",
+      "source_bytes": 90318,
+      "output_bytes": 90318,
+      "sha256": "6f837fe7a5579885116f7053a1cb49c7d8dd1c333d4e931ea08afe008b1da3ea"
+    },
+    {
+      "repo": "palm",
+      "name": "cool-lighting-detail",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-04-24 033108.png",
+      "output": "media/images/cool-lighting-detail.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 3563994,
+      "output_bytes": 710080,
+      "sha256": "07ba9a5381d1c23ffe684ecc41dc9ec47ed967c0eb51d114762554673d21206a"
+    },
+    {
+      "repo": "palm",
+      "name": "cool-lighting-wide",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-04-24 044806.png",
+      "output": "media/images/cool-lighting-wide.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 4244866,
+      "output_bytes": 725696,
+      "sha256": "0175277202b09801c6eb0c91f04dbaebe73c0624316012c94d501bf4a70ee603"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-coverage-01",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-05 011004.png",
+      "output": "media/images/grass-coverage-01.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 2379770,
+      "output_bytes": 444286,
+      "sha256": "fefe72725d3196008476e6a88805669f284f0de0b3d483a68083a8e0d1ac97ef"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-coverage-02",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-05 011228.png",
+      "output": "media/images/grass-coverage-02.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 2205919,
+      "output_bytes": 374222,
+      "sha256": "30a5f50bedeba6212733b40aaea5a9988dc875f6db183e646530b9618bfb305e"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-coverage-03",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-05 011640.png",
+      "output": "media/images/grass-coverage-03.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 1906902,
+      "output_bytes": 321490,
+      "sha256": "fbabe7d20857eb94bd0f1c5532fbc07a6d27812541555e8d04ac3d1ac4012330"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-coverage-04",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-05 023455.png",
+      "output": "media/images/grass-coverage-04.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 2349789,
+      "output_bytes": 421228,
+      "sha256": "bf87b685df552237b2b55b0dea521c27f014283582d69d5cc482237e8f5ac07b"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-coverage-05",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-05 024934.png",
+      "output": "media/images/grass-coverage-05.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 2073279,
+      "output_bytes": 345816,
+      "sha256": "eabdf7f92f0a19fd5c7992fa0c8acf8c602f90fac7ef31dfa57c343121cf1a39"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-outline-test",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-05 034209.png",
+      "output": "media/images/grass-outline-test.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 1476524,
+      "output_bytes": 266064,
+      "sha256": "de8551f9d3869ac9dd1994cf13ef6564eb9c8478b55a9c5713ba8a08193238fc"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-closeup-test",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-06 012731.png",
+      "output": "media/images/grass-closeup-test.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 1881633,
+      "output_bytes": 369828,
+      "sha256": "1da0e622660b41d3fa47aeba712bf91d5ae9754e96bfce4dc03f087f45dd7a5d"
+    },
+    {
+      "repo": "palm",
+      "name": "houdini-variant-color",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-06 022836.png",
+      "output": "media/images/houdini-variant-color.webp",
+      "processing": "WebP quality 96; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 1461353,
+      "output_bytes": 357024,
+      "sha256": "75ece4c2c6eefe4176962ad29d2334a492d85bb3edbae17a82fcc960ee558736"
+    },
+    {
+      "repo": "palm",
+      "name": "mixed-growth-test",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-07 194425.png",
+      "output": "media/images/mixed-growth-test.png",
+      "processing": "copied unchanged",
+      "source_bytes": 491236,
+      "output_bytes": 491236,
+      "sha256": "ef94c4cdc3049c3a52fdf11504d2c5e3fc9374a421c813f8523a2f319b1e118b"
+    },
+    {
+      "repo": "palm",
+      "name": "mushroom-render",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\00044.png",
+      "output": "media/images/mushroom-render.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 7486792,
+      "output_bytes": 165950,
+      "sha256": "4291357b2b9165331184a45db679342f72323db443ca2d5dac5ecf01450f8760"
+    },
+    {
+      "repo": "palm",
+      "name": "flat-mark",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\PalmNFTStudio_Logo_top_left [Converted].png",
+      "output": "media/images/flat-mark.png",
+      "processing": "copied unchanged",
+      "source_bytes": 60234,
+      "output_bytes": 60234,
+      "sha256": "d625283f3115c13d903972e7993bfb59ea6eca8ad3a4dbe3214f28bbfa408a6f"
+    },
+    {
+      "repo": "palm",
+      "name": "final-green-pink",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Best-grass-shots\\UPSCALE_4k_vimeo_to_best_upscale\\rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086891-0000.png",
+      "output": "media/images/final-green-pink.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 10222372,
+      "output_bytes": 1036472,
+      "sha256": "c0afcefc4f03c075947b2c2ec756b82c269b2183d4a332a1cb2d844119ee235b"
+    },
+    {
+      "repo": "palm",
+      "name": "final-yellow",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Best-grass-shots\\UPSCALE_4k_vimeo_to_best_upscale\\rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00087132-0000.png",
+      "output": "media/images/final-yellow.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 9338821,
+      "output_bytes": 954320,
+      "sha256": "7b3e989f78fe3ae74253960a54e796675dac0f6a7ffc0845a04dc8dcb9fb4eb4"
+    },
+    {
+      "repo": "palm",
+      "name": "final-red",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Best-grass-shots\\UPSCALE_4k_vimeo_to_best_upscale\\rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00087145-0000.png",
+      "output": "media/images/final-red.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 9404662,
+      "output_bytes": 966426,
+      "sha256": "01fdc7a6266c0e2cf19d683706239fcddda463982c8101e6b18795b27a374dd3"
+    },
+    {
+      "repo": "palm",
+      "name": "final-green",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\best-overall-lighting-shots\\4k_movie_vimeo-satu-contrast_upscale_picks\\rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086601.png",
+      "output": "media/images/final-green.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 17142287,
+      "output_bytes": 579860,
+      "sha256": "fc57f6efccfa01c5a5dc8fb0d04782fd8978af1eb4ec66e4e2f264c2c4539c33"
+    },
+    {
+      "repo": "palm",
+      "name": "final-cyan",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\best-overall-lighting-shots\\4k_movie_vimeo-satu-contrast_upscale_picks\\rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086638.png",
+      "output": "media/images/final-cyan.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 16809810,
+      "output_bytes": 593866,
+      "sha256": "d29314e081a15ee0cbb14dab3fe27aa4ce4e4d700669542db02a11234cdaa98d"
+    },
+    {
+      "repo": "palm",
+      "name": "final-magenta",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\best-overall-lighting-shots\\4k_movie_vimeo-satu-contrast_upscale_picks\\rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086651.png",
+      "output": "media/images/final-magenta.webp",
+      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
+      "source_bytes": 19277923,
+      "output_bytes": 592614,
+      "sha256": "a67b9041e8634b05a34a79491ae50119bb336ddc3745f833016b0ea3d0717194"
+    },
+    {
+      "repo": "palm",
+      "name": "grass-only",
+      "kind": "existing-video",
+      "source": "D:\\Apps\\MaisonDatelier\\public\\images\\palm\\palm-grass-only.mp4",
+      "video_id": 62,
+      "fps": 24.0,
+      "duration": 5.375,
+      "source_bytes": 13343810,
+      "output": "media/video/grass-only.mp4",
+      "output_bytes": 5932837,
+      "processing": "H.264 CRF20, up to 1920x1080, yuv420p, faststart; original untouched",
+      "sha256": "2662448798d5992eb00505866394e9b6d844749aa5bd6903bfc652ebe1e252f3",
+      "source_sha256": "8ce812ce7bdad3710fad66e14d5e1e244ab9c57cd216705790e5ca3715378000"
+    },
+    {
+      "repo": "palm",
+      "name": "original-closeup",
+      "kind": "existing-video",
+      "source": "D:\\Apps\\MaisonDatelier\\public\\images\\palm\\palm-original-closeup.mp4",
+      "video_id": 63,
+      "fps": 24.0,
+      "duration": 2.208333,
+      "source_bytes": 5971763,
+      "output": "media/video/original-closeup.mp4",
+      "output_bytes": 5484235,
+      "processing": "H.264 CRF20, up to 1920x1080, yuv420p, faststart; original untouched",
+      "sha256": "90f80aefc0d4a5dc4babe981f0a21604b7a7e2ccfec3ba7f849d7e36baff81b3",
+      "source_sha256": "60d6a5a7492e1b31422a0df66cc88b27f1929ff75754629d40d7ec54fb6ac4ea"
+    },
+    {
+      "repo": "palm",
+      "name": "original-slow",
+      "kind": "existing-video",
+      "source": "D:\\Apps\\MaisonDatelier\\public\\images\\palm\\palm-original-slow.mp4",
+      "video_id": 64,
+      "fps": 24.0,
+      "duration": 1.833333,
+      "source_bytes": 3924957,
+      "output": "media/video/original-slow.mp4",
+      "output_bytes": 1038266,
+      "processing": "H.264 CRF20, up to 1920x1080, yuv420p, faststart; original untouched",
+      "sha256": "1e3b42dffc2ecb57591379d901b282bb9b9eda890c78086f1cf33dc791251b9b",
+      "source_sha256": "e45ae9e74bf9ea045394bb70630fb62788754c1d4780e514f00688a670ff820d"
+    },
+    {
+      "repo": "palm",
+      "name": "portfolio-film",
+      "kind": "existing-video",
+      "source": "D:\\Apps\\MaisonDatelier\\public\\images\\palm\\palm-video-portfolio.mp4",
+      "video_id": 65,
+      "fps": 24.0,
+      "duration": 21.312,
+      "source_bytes": 214354452,
+      "output": "media/video/portfolio-film.mp4",
+      "output_bytes": 6937968,
+      "processing": "H.264 CRF22, maxrate 2500 kbit/s, up to 1920x1080, yuv420p, faststart. Encoded from original source; full duration/frame count retained.",
+      "sha256": "74d00572798b28d897457aecbf8010934c7f62d3af14d69d704f4739629e75cf",
+      "source_sha256": "6cdf1a4b6a09db98e38da28da3e7786e380a86f97b06d2d8e92d2f97dff62640"
+    },
+    {
+      "repo": "palm",
+      "name": "mushroom-cam21",
+      "kind": "image-sequence",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.{frame}.png + D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.{frame}.png",
+      "sequence_id": "mushroom-cam21",
+      "frames": [
+        [
+          1,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0001.png"
+        ],
+        [
+          2,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0002.png"
+        ],
+        [
+          3,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0003.png"
+        ],
+        [
+          4,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0004.png"
+        ],
+        [
+          5,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0005.png"
+        ],
+        [
+          6,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0006.png"
+        ],
+        [
+          7,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0007.png"
+        ],
+        [
+          8,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0008.png"
+        ],
+        [
+          9,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0009.png"
+        ],
+        [
+          10,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0010.png"
+        ],
+        [
+          11,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0011.png"
+        ],
+        [
+          12,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0012.png"
+        ],
+        [
+          13,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0013.png"
+        ],
+        [
+          14,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0014.png"
+        ],
+        [
+          15,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0015.png"
+        ],
+        [
+          16,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0016.png"
+        ],
+        [
+          17,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0017.png"
+        ],
+        [
+          18,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0018.png"
+        ],
+        [
+          19,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0019.png"
+        ],
+        [
+          20,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0020.png"
+        ],
+        [
+          21,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0021.png"
+        ],
+        [
+          22,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0022.png"
+        ],
+        [
+          23,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0023.png"
+        ],
+        [
+          24,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0024.png"
+        ],
+        [
+          25,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0025.png"
+        ],
+        [
+          26,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0026.png"
+        ],
+        [
+          27,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0027.png"
+        ],
+        [
+          28,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0028.png"
+        ],
+        [
+          29,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0029.png"
+        ],
+        [
+          30,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0030.png"
+        ],
+        [
+          31,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0031.png"
+        ],
+        [
+          32,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0032.png"
+        ],
+        [
+          33,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0033.png"
+        ],
+        [
+          34,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0034.png"
+        ],
+        [
+          35,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0035.png"
+        ],
+        [
+          36,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0036.png"
+        ],
+        [
+          37,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0037.png"
+        ],
+        [
+          38,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0038.png"
+        ],
+        [
+          39,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0039.png"
+        ],
+        [
+          40,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0040.png"
+        ],
+        [
+          41,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0041.png"
+        ],
+        [
+          42,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0042.png"
+        ],
+        [
+          43,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0043.png"
+        ],
+        [
+          44,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0044.png"
+        ],
+        [
+          45,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0045.png"
+        ],
+        [
+          46,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0046.png"
+        ],
+        [
+          47,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0047.png"
+        ],
+        [
+          48,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_begining_4k\\HRez_cam21.0048.png"
+        ],
+        [
+          49,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0049.png"
+        ],
+        [
+          50,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0050.png"
+        ],
+        [
+          51,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0051.png"
+        ],
+        [
+          52,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0052.png"
+        ],
+        [
+          53,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0053.png"
+        ],
+        [
+          54,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0054.png"
+        ],
+        [
+          55,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0055.png"
+        ],
+        [
+          56,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0056.png"
+        ],
+        [
+          57,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0057.png"
+        ],
+        [
+          58,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0058.png"
+        ],
+        [
+          59,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0059.png"
+        ],
+        [
+          60,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0060.png"
+        ],
+        [
+          61,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0061.png"
+        ],
+        [
+          62,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0062.png"
+        ],
+        [
+          63,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0063.png"
+        ],
+        [
+          64,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0064.png"
+        ],
+        [
+          65,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0065.png"
+        ],
+        [
+          66,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0066.png"
+        ],
+        [
+          67,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0067.png"
+        ],
+        [
+          68,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0068.png"
+        ],
+        [
+          69,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0069.png"
+        ],
+        [
+          70,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0070.png"
+        ],
+        [
+          71,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0071.png"
+        ],
+        [
+          72,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0072.png"
+        ],
+        [
+          73,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0073.png"
+        ],
+        [
+          74,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0074.png"
+        ],
+        [
+          75,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0075.png"
+        ],
+        [
+          76,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0076.png"
+        ],
+        [
+          77,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0077.png"
+        ],
+        [
+          78,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0078.png"
+        ],
+        [
+          79,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0079.png"
+        ],
+        [
+          80,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0080.png"
+        ],
+        [
+          81,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0081.png"
+        ],
+        [
+          82,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0082.png"
+        ],
+        [
+          83,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0083.png"
+        ],
+        [
+          84,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0084.png"
+        ],
+        [
+          85,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0085.png"
+        ],
+        [
+          86,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0086.png"
+        ],
+        [
+          87,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0087.png"
+        ],
+        [
+          88,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0088.png"
+        ],
+        [
+          89,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0089.png"
+        ],
+        [
+          90,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0090.png"
+        ],
+        [
+          91,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0091.png"
+        ],
+        [
+          92,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0092.png"
+        ],
+        [
+          93,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0093.png"
+        ],
+        [
+          94,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0094.png"
+        ],
+        [
+          95,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0095.png"
+        ],
+        [
+          96,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0096.png"
+        ],
+        [
+          97,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0097.png"
+        ],
+        [
+          98,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0098.png"
+        ],
+        [
+          99,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0099.png"
+        ],
+        [
+          100,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\4k\\FRez_cam21_4k\\HRez_cam21.0100.png"
+        ]
+      ],
+      "fps": 24,
+      "fps_basis": "24 fps inferred from corresponding Palm source movies",
+      "source_bytes": 388797835,
+      "output": "media/video/mushroom-cam21.mp4",
+      "output_bytes": 1696976,
+      "processing": "H.264 CRF20, up to 1920x1080, yuv420p, faststart; original untouched",
+      "sha256": "44624ce1fab5784180718915defe4d337c5cfae01859f2832987c343bb285019"
+    },
+    {
+      "repo": "palm",
+      "name": "closeup-cam7-continuation",
+      "kind": "image-sequence",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.{frame}.png",
+      "sequence_id": "closeup-cam7-continuation",
+      "frames": [
+        [
+          103,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0103.png"
+        ],
+        [
+          104,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0104.png"
+        ],
+        [
+          105,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0105.png"
+        ],
+        [
+          106,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0106.png"
+        ],
+        [
+          107,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0107.png"
+        ],
+        [
+          108,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0108.png"
+        ],
+        [
+          109,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0109.png"
+        ],
+        [
+          110,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0110.png"
+        ],
+        [
+          111,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0111.png"
+        ],
+        [
+          112,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0112.png"
+        ],
+        [
+          113,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0113.png"
+        ],
+        [
+          114,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0114.png"
+        ],
+        [
+          115,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0115.png"
+        ],
+        [
+          116,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0116.png"
+        ],
+        [
+          117,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0117.png"
+        ],
+        [
+          118,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0118.png"
+        ],
+        [
+          119,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0119.png"
+        ],
+        [
+          120,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0120.png"
+        ],
+        [
+          121,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0121.png"
+        ],
+        [
+          122,
+          "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\original_palm\\FRez_cam7\\FRez_cam7.Redshift_ROP33.0122.png"
+        ]
+      ],
+      "fps": 24,
+      "fps_basis": "24 fps inferred from corresponding Palm source movies",
+      "source_bytes": 89908365,
+      "output": "media/video/closeup-cam7-continuation.mp4",
+      "output_bytes": 2410276,
+      "processing": "H.264 CRF20, up to 1920x1080, yuv420p, faststart; original untouched",
+      "sha256": "4dff4853361c0375850571986ce13bdf8c22e8241ca9b0a836299d441ad4034d"
+    },
+    {
+      "repo": "palm",
+      "name": "growth-sketch-review",
+      "kind": "still-comparison",
+      "source": [
+        "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image.png",
+        "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (1).png",
+        "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (2).png",
+        "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (3).png",
+        "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (4).png"
+      ],
+      "fps": 24,
+      "labels": [
+        "Base silhouette",
+        "First growth marks",
+        "Central sprout",
+        "Mushroom emergence",
+        "Open mushroom caps"
+      ],
+      "output": "media/video/growth-sketch-review.mp4",
+      "output_bytes": 216650,
+      "processing": "H.264 CRF20, up to 1920x1080, yuv420p, faststart; original untouched",
+      "sha256": "9aacaddc4088b7e486cc9152db73695b3ecd2c91376c6e1500eaf979a9dd6d9e"
+    },
+    {
+      "repo": "palm-process",
+      "name": "growth-sketch-review",
+      "kind": "gif-preview",
+      "source": "media/video/growth-sketch-review.mp4",
+      "output": "media/gif/growth-sketch-review.gif",
+      "start_seconds": 0,
+      "maximum_duration_seconds": 8,
+      "fps": 6,
+      "width": 640,
+      "output_bytes": 125051,
+      "processing": "128-color palette, 640px looping excerpt of the review MP4",
+      "sha256": "3a1ea485e9e15cb37296498bb9ef14f90c4f811ddbcdd7d7c1036f54ae601762"
+    },
+    {
+      "repo": "palm-process",
+      "name": "mushroom-cam21",
+      "kind": "gif-preview",
+      "source": "media/video/mushroom-cam21.mp4",
+      "output": "media/gif/mushroom-cam21.gif",
+      "start_seconds": 0,
+      "maximum_duration_seconds": 5,
+      "fps": 12,
+      "width": 640,
+      "output_bytes": 2791141,
+      "processing": "128-color palette, 640px looping excerpt of the review MP4",
+      "sha256": "8433ce9a1f443254a07c849cac454afeca760851f0b7dd217d9aae7e39c1b309"
+    },
+    {
+      "repo": "palm-process",
+      "name": "grass-only",
+      "kind": "gif-preview",
+      "source": "media/video/grass-only.mp4",
+      "output": "media/gif/grass-only.gif",
+      "start_seconds": 0,
+      "maximum_duration_seconds": 5,
+      "fps": 12,
+      "width": 640,
+      "output_bytes": 6531257,
+      "processing": "128-color palette, 640px looping excerpt of the review MP4",
+      "sha256": "caa2901f6ba3897896cff63999f93bffcc0f549fff8fc5c006a946008c3aa29f"
+    },
+    {
+      "repo": "palm-process",
+      "name": "original-closeup",
+      "kind": "gif-preview",
+      "source": "media/video/original-closeup.mp4",
+      "output": "media/gif/original-closeup.gif",
+      "start_seconds": 0,
+      "maximum_duration_seconds": 5,
+      "fps": 12,
+      "width": 640,
+      "output_bytes": 3276227,
+      "processing": "128-color palette, 640px looping excerpt of the review MP4",
+      "sha256": "1469c2ed34957022987fdc9be6e46b9834af1ca485142cc7e3815c4c2a0d5f3c"
+    },
+    {
+      "repo": "palm-process",
+      "name": "portfolio-film",
+      "kind": "gif-preview",
+      "source": "media/video/portfolio-film.mp4",
+      "output": "media/gif/portfolio-film.gif",
+      "start_seconds": 0,
+      "maximum_duration_seconds": 5,
+      "fps": 12,
+      "width": 640,
+      "output_bytes": 4181978,
+      "processing": "128-color palette, 640px looping excerpt of the review MP4",
+      "sha256": "8e583cfa84c580c45bc572049d9349e327de632eeb0093eeac7578af4ba5a494"
+    }
+  ]
+}
