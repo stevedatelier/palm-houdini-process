@@ -45,3 +45,7 @@ H.264, yuv420p, fast-start MP4; source aspect ratio retained, up to 1920 Ã— 1
 - `rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086863.png` was unreadable and excluded. The composition is represented by other intact media.
 - The hand holding an electronic object and the `NATURAE` website/video captures are external reference imagery with no established production relationship; they were inspected and excluded. Near-duplicate capture exports were also omitted.
 - The new Houdini image directly shows a Color SOP using Random from Attribute with the point attribute `variant`; the README limits the technical explanation to what is visible.
+
+## Artist-identified inspiration update
+
+The supplied inspiration references now have individual captions and a [source record](references.md). Palm includes the NATURAE screenshot previously treated as an unrelated reference. Unverified authorship is explicitly marked; the AI-labeled foundry illustration is not presented as a real-life photograph.

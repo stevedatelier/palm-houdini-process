@@ -8,6 +8,14 @@ The starting point is a compact mark with rounded lobes and deep radial cuts. Th
 
 This archive includes the newly supplied process images, Houdini work, intermediate lighting tests, numbered render batches and final motion. It distinguishes concept drawings from captured animation and keeps the visible experiments alongside the finished images.
 
+## Inspiration / layered botanical growth
+
+![Supplied NATURAE foliage reference](media/images/reference-naturae.jpg)
+
+*NATURAE reference: overlapping fern fronds and glossy leaves create a dense surface while differences in leaf scale keep the growth readable. This supports Palm’s exploration of coverage, fine detail and the visibility of the underlying mark. Source file: `Screenshot 2022-03-20 150624.jpg`.*
+
+The likely source is **[Naturae](https://www.behance.net/gallery/109979317/Naturae)**, credited to **Ian Frederick** for design and animation and **Flank Audio** for music and sound design; the [original film](https://vimeo.com/493513393) describes experiments in nature and organic growth. The project credit is verified, but this exact screenshot’s frame match is not independently confirmed. It is retained as external motion-design inspiration, not a Palm render or verified nature photograph. [Source details](docs/references.md).
+
 ## 01 / Sketching the growth
 
 ![Base mark](media/images/growth-sketch-01.png)

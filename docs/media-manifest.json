@@ -986,6 +986,16 @@
       "output_bytes": 4181978,
       "processing": "128-color palette, 640px looping excerpt of the review MP4",
       "sha256": "8e583cfa84c580c45bc572049d9349e327de632eeb0093eeac7578af4ba5a494"
+    },
+    {
+      "repo": "palm",
+      "name": "reference-naturae",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-03-20 150624.jpg",
+      "output": "media/images/reference-naturae.jpg",
+      "processing": "Supplied external inspiration screenshot copied unchanged; likely Naturae by Ian Frederick, exact frame match unverified.",
+      "source_bytes": 310538,
+      "output_bytes": 310538
     }
   ]
 }

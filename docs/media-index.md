@@ -61,3 +61,7 @@ All media below is stored in this private repository. MP4 links open the file pa
 | [final-magenta](../media/images/final-magenta.webp) | `rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086651.png` |
 
 Exact source paths, processing details, full sequence order and checksums are recorded in [media-manifest.json](media-manifest.json).
+
+## External inspiration
+
+- [NATURAE foliage screenshot](../media/images/reference-naturae.jpg) — external reference; [credits and attribution status](references.md).
