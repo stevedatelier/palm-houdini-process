@@ -26,10 +26,6 @@ These are distinct visual tests. The images do not establish an exact generation
 
 The likely source is **[Naturae](https://www.behance.net/gallery/109979317/Naturae)**, credited to **Ian Frederick** for design and animation and **Flank Audio** for music and sound design; the [original film](https://vimeo.com/493513393) describes experiments in nature and organic growth. The project credit is verified, but this exact screenshot’s frame match is not independently confirmed. It is retained as external motion-design inspiration, not a Palm render or verified nature photograph. [Source details](docs/references.md).
 
-![Growth concept sketch](media/images/growth-sketch-03.png)
-
-Five drawings describe a progression: the shallow mark, growth along its channels, a taller central sprout, then mushrooms emerging and opening. The arrows communicate proposed motion. They are design intent, not evidence that a particular simulation or rig was used.
-
 [All five sketches as a still comparison](media/video/growth-sketch-review.mp4)
 
 The comparison holds each drawing for two seconds and is explicitly labeled as assembled stills. It preserves the drawings’ relationship without presenting them as an original playblast.
@@ -42,7 +38,7 @@ The screenshot shows `refine_variant` attribute-wrangle nodes feeding Color bran
 
 The render preview puts neighboring clusters into contrasting colors. This is useful for judging whether individual growth groups remain distinguishable when the surface becomes crowded.
 
-![Mixed growth test](media/images/mixed-growth-test.png)
+
 ![Cyan variant](media/images/final-cyan.webp)
 ![Magenta variant](media/images/final-magenta.webp)
 
