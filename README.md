@@ -10,7 +10,7 @@
 
 ![Portfolio — palm technical](media/portfolio/palm-technical.webp)
 
-Coverage tests for the Palm mark. The balance is between dense growth and enough breathing room for the shape to work.
+The growth can get wild, but the mark still needs to read. Coverage is the main control: enough density to feel lush, enough exposed surface to keep the shape clear.
 
 ![Grass-only motion](media/gif/grass-only.gif)
 
@@ -26,7 +26,7 @@ Coverage tests for the Palm mark. The balance is between dense growth and enough
 
 <a href="media/video/growth-sketch-review.mp4">All five sketches as a still comparison</a>
 
-A short comparison of the growth sketches.
+The sketches are about rhythm. A uniform spread feels too even; the interest is in where the growth gathers and where it leaves a pause.
 
 ## Procedural Color
 
@@ -41,7 +41,7 @@ vector variant_color = rand(i@variant);
 @Cd = variant_color;
 ```
 
-The brighter palettes give the project a playful side. The quieter versions leave more room for the growth itself.
+Color changes the attitude of the mark. The brighter versions feel playful and artificial; the quieter ones put the attention back on the growth.
 
 ![Cyan variant](media/images/final-cyan.webp)
 ![Magenta variant](media/images/final-magenta.webp)
