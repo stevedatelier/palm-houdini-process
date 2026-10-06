@@ -1,0 +1,266 @@
+[
+  {
+    "repo": "palm-process",
+    "old": "media/images/clay-growth-closeup.webp",
+    "new": "media/images/clay-growth-closeup.webp",
+    "before": 715376,
+    "after": 715376,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/cool-lighting-detail.webp",
+    "new": "media/images/cool-lighting-detail.webp",
+    "before": 710080,
+    "after": 710080,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/cool-lighting-wide.webp",
+    "new": "media/images/cool-lighting-wide.webp",
+    "before": 725696,
+    "after": 725696,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/dark-lighting-test.png",
+    "new": "media/images/dark-lighting-test.webp",
+    "before": 90318,
+    "after": 38398,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/final-cyan.webp",
+    "new": "media/images/final-cyan.webp",
+    "before": 593866,
+    "after": 593866,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/final-green-pink.webp",
+    "new": "media/images/final-green-pink.webp",
+    "before": 1036472,
+    "after": 1036472,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/final-green.webp",
+    "new": "media/images/final-green.webp",
+    "before": 579860,
+    "after": 579860,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/final-magenta.webp",
+    "new": "media/images/final-magenta.webp",
+    "before": 592614,
+    "after": 592614,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/final-red.webp",
+    "new": "media/images/final-red.webp",
+    "before": 966426,
+    "after": 966426,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/final-yellow.webp",
+    "new": "media/images/final-yellow.webp",
+    "before": 954320,
+    "after": 954320,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/flat-mark.png",
+    "new": "media/images/flat-mark.webp",
+    "before": 60234,
+    "after": 21882,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-and-stone-test.webp",
+    "new": "media/images/grass-and-stone-test.webp",
+    "before": 388572,
+    "after": 388572,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-closeup-test.webp",
+    "new": "media/images/grass-closeup-test.webp",
+    "before": 369828,
+    "after": 369828,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-coverage-01.webp",
+    "new": "media/images/grass-coverage-01.webp",
+    "before": 444286,
+    "after": 444286,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-coverage-02.webp",
+    "new": "media/images/grass-coverage-02.webp",
+    "before": 374222,
+    "after": 374222,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-coverage-03.webp",
+    "new": "media/images/grass-coverage-03.webp",
+    "before": 321490,
+    "after": 321490,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-coverage-04.webp",
+    "new": "media/images/grass-coverage-04.webp",
+    "before": 421228,
+    "after": 421228,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-coverage-05.webp",
+    "new": "media/images/grass-coverage-05.webp",
+    "before": 345816,
+    "after": 345816,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/grass-outline-test.webp",
+    "new": "media/images/grass-outline-test.webp",
+    "before": 266064,
+    "after": 266064,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/growth-sketch-01.png",
+    "new": "media/images/growth-sketch-01.webp",
+    "before": 772108,
+    "after": 293484,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/growth-sketch-02.png",
+    "new": "media/images/growth-sketch-02.webp",
+    "before": 786048,
+    "after": 316382,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/growth-sketch-03.png",
+    "new": "media/images/growth-sketch-03.webp",
+    "before": 962759,
+    "after": 446250,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/growth-sketch-04.png",
+    "new": "media/images/growth-sketch-04.webp",
+    "before": 721809,
+    "after": 270214,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/growth-sketch-05.png",
+    "new": "media/images/growth-sketch-05.webp",
+    "before": 745827,
+    "after": 284130,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/houdini-variant-color.webp",
+    "new": "media/images/houdini-variant-color.webp",
+    "before": 357024,
+    "after": 357024,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/mixed-growth-test.png",
+    "new": "media/images/mixed-growth-test.webp",
+    "before": 491236,
+    "after": 325480,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/mushroom-model-study.webp",
+    "new": "media/images/mushroom-model-study.webp",
+    "before": 178910,
+    "after": 178910,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/mushroom-render.webp",
+    "new": "media/images/mushroom-render.webp",
+    "before": 165950,
+    "after": 165950,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/pale-mark-test.webp",
+    "new": "media/images/pale-mark-test.webp",
+    "before": 84852,
+    "after": 84852,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/images/reference-naturae.jpg",
+    "new": "media/images/reference-naturae.jpg",
+    "before": 310538,
+    "after": 310538,
+    "processing": "Original format retained: lossless WebP was larger; no quality loss introduced."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/portfolio/palm-cover.png",
+    "new": "media/portfolio/palm-cover.webp",
+    "before": 58777,
+    "after": 13378,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/portfolio/palm-gallery.png",
+    "new": "media/portfolio/palm-gallery.webp",
+    "before": 4584201,
+    "after": 3201398,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "palm-process",
+    "old": "media/portfolio/palm-technical.png",
+    "new": "media/portfolio/palm-technical.webp",
+    "before": 4108672,
+    "after": 2426592,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  }
+]

@@ -29,10 +29,10 @@
       "name": "growth-sketch-02",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (1).png",
-      "output": "media/images/growth-sketch-02.png",
-      "processing": "copied unchanged",
+      "output": "media/images/growth-sketch-02.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 786048,
-      "output_bytes": 786048,
+      "output_bytes": 316382,
       "sha256": "68088363dcd008ef521996324ae2c124597f574e8501307474114bfa2577ed58"
     },
     {
@@ -40,10 +40,10 @@
       "name": "growth-sketch-03",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (2).png",
-      "output": "media/images/growth-sketch-03.png",
-      "processing": "copied unchanged",
+      "output": "media/images/growth-sketch-03.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 962759,
-      "output_bytes": 962759,
+      "output_bytes": 446250,
       "sha256": "78113a13f98dd19c95f1ff283ea16a4488525e7c68ebc7d0ef56bd1e9b51ff80"
     },
     {
@@ -51,10 +51,10 @@
       "name": "growth-sketch-04",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (3).png",
-      "output": "media/images/growth-sketch-04.png",
-      "processing": "copied unchanged",
+      "output": "media/images/growth-sketch-04.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 721809,
-      "output_bytes": 721809,
+      "output_bytes": 270214,
       "sha256": "a15a22bcdd68833a61b09303f94ee7cceddb6071a43cc3a0a78f01bdb02230ba"
     },
     {
@@ -62,10 +62,10 @@
       "name": "growth-sketch-05",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image (4).png",
-      "output": "media/images/growth-sketch-05.png",
-      "processing": "copied unchanged",
+      "output": "media/images/growth-sketch-05.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 745827,
-      "output_bytes": 745827,
+      "output_bytes": 284130,
       "sha256": "687898785da1d3b50d0f0b381662718a1eee98b45eee175e93469d73540c3f5f"
     },
     {
@@ -73,10 +73,10 @@
       "name": "growth-sketch-01",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\image.png",
-      "output": "media/images/growth-sketch-01.png",
-      "processing": "copied unchanged",
+      "output": "media/images/growth-sketch-01.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 772108,
-      "output_bytes": 772108,
+      "output_bytes": 293484,
       "sha256": "54d7292776fb93b1deff9a79948af78b9156c143e2c227cf5ab58ff2104505a4"
     },
     {
@@ -106,10 +106,10 @@
       "name": "dark-lighting-test",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2022-04-24 013756.png",
-      "output": "media/images/dark-lighting-test.png",
-      "processing": "copied unchanged",
+      "output": "media/images/dark-lighting-test.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 90318,
-      "output_bytes": 90318,
+      "output_bytes": 38398,
       "sha256": "6f837fe7a5579885116f7053a1cb49c7d8dd1c333d4e931ea08afe008b1da3ea"
     },
     {
@@ -227,10 +227,10 @@
       "name": "mixed-growth-test",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\Screenshot 2023-07-07 194425.png",
-      "output": "media/images/mixed-growth-test.png",
-      "processing": "copied unchanged",
+      "output": "media/images/mixed-growth-test.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 491236,
-      "output_bytes": 491236,
+      "output_bytes": 325480,
       "sha256": "ef94c4cdc3049c3a52fdf11504d2c5e3fc9374a421c813f8523a2f319b1e118b"
     },
     {
@@ -249,10 +249,10 @@
       "name": "flat-mark",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\palm\\PalmNFTStudio_Logo_top_left [Converted].png",
-      "output": "media/images/flat-mark.png",
-      "processing": "copied unchanged",
+      "output": "media/images/flat-mark.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 60234,
-      "output_bytes": 60234,
+      "output_bytes": 21882,
       "sha256": "d625283f3115c13d903972e7993bfb59ea6eca8ad3a4dbe3214f28bbfa408a6f"
     },
     {

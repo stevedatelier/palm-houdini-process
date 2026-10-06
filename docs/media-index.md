@@ -32,14 +32,14 @@ All media below is stored in this private repository. MP4 links open the file pa
 |---|---|
 | [clay-growth-closeup](../media/images/clay-growth-closeup.webp) | `Capture.PNG` |
 | [grass-and-stone-test](../media/images/grass-and-stone-test.webp) | `Capturefff.PNG` |
-| [growth-sketch-02](../media/images/growth-sketch-02.png) | `image (1).png` |
-| [growth-sketch-03](../media/images/growth-sketch-03.png) | `image (2).png` |
-| [growth-sketch-04](../media/images/growth-sketch-04.png) | `image (3).png` |
-| [growth-sketch-05](../media/images/growth-sketch-05.png) | `image (4).png` |
-| [growth-sketch-01](../media/images/growth-sketch-01.png) | `image.png` |
+| [growth-sketch-02](../media/images/growth-sketch-02.webp) | `image (1).png` |
+| [growth-sketch-03](../media/images/growth-sketch-03.webp) | `image (2).png` |
+| [growth-sketch-04](../media/images/growth-sketch-04.webp) | `image (3).png` |
+| [growth-sketch-05](../media/images/growth-sketch-05.webp) | `image (4).png` |
+| [growth-sketch-01](../media/images/growth-sketch-01.webp) | `image.png` |
 | [pale-mark-test](../media/images/pale-mark-test.webp) | `Screenshot 2022-03-21 105159.png` |
 | [mushroom-model-study](../media/images/mushroom-model-study.webp) | `Screenshot 2022-03-21 145134.png` |
-| [dark-lighting-test](../media/images/dark-lighting-test.png) | `Screenshot 2022-04-24 013756.png` |
+| [dark-lighting-test](../media/images/dark-lighting-test.webp) | `Screenshot 2022-04-24 013756.png` |
 | [cool-lighting-detail](../media/images/cool-lighting-detail.webp) | `Screenshot 2022-04-24 033108.png` |
 | [cool-lighting-wide](../media/images/cool-lighting-wide.webp) | `Screenshot 2022-04-24 044806.png` |
 | [grass-coverage-01](../media/images/grass-coverage-01.webp) | `Screenshot 2023-07-05 011004.png` |
@@ -50,9 +50,9 @@ All media below is stored in this private repository. MP4 links open the file pa
 | [grass-outline-test](../media/images/grass-outline-test.webp) | `Screenshot 2023-07-05 034209.png` |
 | [grass-closeup-test](../media/images/grass-closeup-test.webp) | `Screenshot 2023-07-06 012731.png` |
 | [houdini-variant-color](../media/images/houdini-variant-color.webp) | `Screenshot 2023-07-06 022836.png` |
-| [mixed-growth-test](../media/images/mixed-growth-test.png) | `Screenshot 2023-07-07 194425.png` |
+| [mixed-growth-test](../media/images/mixed-growth-test.webp) | `Screenshot 2023-07-07 194425.png` |
 | [mushroom-render](../media/images/mushroom-render.webp) | `00044.png` |
-| [flat-mark](../media/images/flat-mark.png) | `PalmNFTStudio_Logo_top_left [Converted].png` |
+| [flat-mark](../media/images/flat-mark.webp) | `PalmNFTStudio_Logo_top_left [Converted].png` |
 | [final-green-pink](../media/images/final-green-pink.webp) | `rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00086891-0000.png` |
 | [final-yellow](../media/images/final-yellow.webp) | `rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00087132-0000.png` |
 | [final-red](../media/images/final-red.webp) | `rec709_vimeo_satu-contrast_stronger_90000kbs_youtube00087145-0000.png` |
@@ -65,3 +65,5 @@ Exact source paths, processing details, full sequence order and checksums are re
 ## External inspiration
 
 - [NATURAE foliage screenshot](../media/images/reference-naturae.jpg) — external reference; [credits and attribution status](references.md).
+
+Image sizes and encoding decisions after optimization: [image optimization audit](image-optimization.json). Original source files are unchanged.

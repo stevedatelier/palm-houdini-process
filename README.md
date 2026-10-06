@@ -44,8 +44,8 @@ The render preview puts neighboring clusters into contrasting colors. This is us
 
 ---
 
-![Portfolio — palm cover](media/portfolio/palm-cover.png)
+![Portfolio — palm cover](media/portfolio/palm-cover.webp)
 
-![Portfolio — palm gallery](media/portfolio/palm-gallery.png)
+![Portfolio — palm gallery](media/portfolio/palm-gallery.webp)
 
-![Portfolio — palm technical](media/portfolio/palm-technical.png)
+![Portfolio — palm technical](media/portfolio/palm-technical.webp)
