@@ -45,3 +45,11 @@ The render preview puts neighboring clusters into contrasting colors. This is us
 ![Mixed growth test](media/images/mixed-growth-test.png)
 ![Cyan variant](media/images/final-cyan.webp)
 ![Magenta variant](media/images/final-magenta.webp)
+
+---
+
+![Portfolio — palm cover](media/portfolio/palm-cover.png)
+
+![Portfolio — palm gallery](media/portfolio/palm-gallery.png)
+
+![Portfolio — palm technical](media/portfolio/palm-technical.png)
