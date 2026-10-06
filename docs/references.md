@@ -1,13 +1,13 @@
-# Inspiration sources
+# Inspiration provenance
 
 [Back to the case study](../README.md)
 
-The artist identified these supplied images as inspiration. They are external references, not project outputs. Captions in the case study explain their visual relevance. Original local files are unchanged.
+Checked 6 October 2026. Original files were inspected for embedded EXIF/XMP author fields and Windows download-origin metadata. No usable embedded creator credits were found. Download hosts identify where a copy came from, not necessarily its creator.
 
-## reference-naturae
+## NATURAE
+
+**Likely project: Naturae. Design and animation: Ian Frederick. Music and sound design: Flank Audio.** These credits are verified on [Ian Frederick’s original Vimeo film page](https://vimeo.com/493513393), which links to the [Behance project](https://www.behance.net/gallery/109979317/Naturae).
 
 [Repository image](../media/images/reference-naturae.jpg)
 
-Supplied source: `D:\Apps\MaisonDatelier\assets\images\palm\Screenshot 2022-03-20 150624.jpg`
-
-Likely source: [Naturae on Behance](https://www.behance.net/gallery/109979317/Naturae), published December 21, 2020; [original film on Vimeo](https://vimeo.com/493513393). Design and animation: Ian Frederick. Music and sound design: Flank Audio. The project credits are verified; the exact supplied screenshot has not been frame-matched.
+The supplied screenshot contains the NATURAE title over foliage, but it has no creator metadata or download-origin record. Its exact frame has not been independently matched. The project attribution is therefore retained as likely, while the cited project’s credits are verified. This is external CG/motion-design inspiration, not a Palm render or a verified nature photograph.

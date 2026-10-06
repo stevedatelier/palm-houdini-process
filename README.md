@@ -14,13 +14,13 @@
 
 ![Portfolio — palm technical](media/portfolio/palm-technical.webp)
 
-The grass variants change the balance between exposed pale surface and dark green coverage. In the dense version, the center and channels become harder to separate. The flatter outline study tests the opposite priority: broad, readable lobes with less competition from tall growth.
+<sub>The grass variants change the balance between exposed pale surface and dark green coverage. In the dense version, the center and channels become harder to separate. The flatter outline study tests the opposite priority: broad, readable lobes with less competition from tall growth.</sub>
 
-These are distinct visual tests. The images do not establish an exact generation order or a controlled one-parameter experiment.
+<sub>These are distinct visual tests. The images do not establish an exact generation order or a controlled one-parameter experiment.</sub>
 
 ![Grass-only motion](media/gif/grass-only.gif)
 
-[Grass-only movie](media/video/grass-only.mp4) · [all five coverage studies](docs/media-index.md#images)
+<sub>[Grass-only movie](media/video/grass-only.mp4) · [all five coverage studies](docs/media-index.md#images)</sub>
 
 ## Sketching the Growth
 
@@ -28,21 +28,21 @@ These are distinct visual tests. The images do not establish an exact generation
 
 ![Supplied NATURAE foliage reference](media/images/reference-naturae.jpg)
 
-*NATURAE reference: overlapping fern fronds and glossy leaves create a dense surface while differences in leaf scale keep the growth readable. This supports Palm’s exploration of coverage, fine detail and the visibility of the underlying mark. Source file: `Screenshot 2022-03-20 150624.jpg`.*
+<sub>NATURAE: layered fern fronds and glossy foliage as a reference for coverage and readable growth.</sub>
 
-The likely source is **[Naturae](https://www.behance.net/gallery/109979317/Naturae)**, credited to **Ian Frederick** for design and animation and **Flank Audio** for music and sound design; the [original film](https://vimeo.com/493513393) describes experiments in nature and organic growth. The project credit is verified, but this exact screenshot’s frame match is not independently confirmed. It is retained as external motion-design inspiration, not a Palm render or verified nature photograph. [Source details](docs/references.md).
+<sub>Likely source: [Naturae](https://vimeo.com/493513393) by Ian Frederick (design and animation), with Flank Audio (music and sound design). Credits verified on the original film page; the exact screenshot has not been frame-matched. External CG inspiration. [Provenance](docs/references.md).</sub>
 
-[All five sketches as a still comparison](media/video/growth-sketch-review.mp4)
+<sub>[All five sketches as a still comparison](media/video/growth-sketch-review.mp4)</sub>
 
-The comparison holds each drawing for two seconds and is explicitly labeled as assembled stills. It preserves the drawings’ relationship without presenting them as an original playblast.
+<sub>The comparison holds each drawing for two seconds and is explicitly labeled as assembled stills. It preserves the drawings’ relationship without presenting them as an original playblast.</sub>
 
 ## Procedural Color Variation in Houdini
 
 ![Houdini attribute-driven color and render test](media/images/houdini-variant-color.webp)
 
-The screenshot shows `refine_variant` attribute-wrangle nodes feeding Color branches. The selected Color node is set to **Random from Attribute**, using `variant` on points. That is direct evidence of attribute-driven color variation; it does not expose the full scattering or animation setup.
+<sub>The screenshot shows `refine_variant` attribute-wrangle nodes feeding Color branches. The selected Color node is set to **Random from Attribute**, using `variant` on points. That is direct evidence of attribute-driven color variation; it does not expose the full scattering or animation setup.</sub>
 
-The render preview puts neighboring clusters into contrasting colors. This is useful for judging whether individual growth groups remain distinguishable when the surface becomes crowded.
+<sub>The render preview puts neighboring clusters into contrasting colors. This is useful for judging whether individual growth groups remain distinguishable when the surface becomes crowded.</sub>
 
 
 ![Cyan variant](media/images/final-cyan.webp)
