@@ -12,6 +12,8 @@
 ![Dense grass coverage](media/images/grass-coverage-03.webp)
 ![Grass outline study](media/images/grass-outline-test.webp)
 
+![Portfolio — palm technical](media/portfolio/palm-technical.webp)
+
 The grass variants change the balance between exposed pale surface and dark green coverage. In the dense version, the center and channels become harder to separate. The flatter outline study tests the opposite priority: broad, readable lobes with less competition from tall growth.
 
 These are distinct visual tests. The images do not establish an exact generation order or a controlled one-parameter experiment.
