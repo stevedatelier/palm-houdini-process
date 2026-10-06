@@ -16,9 +16,11 @@ The growth can get wild, but the mark still needs to read. Coverage is the main 
 
 <a href="media/video/grass-only.mp4">Grass-only movie</a> · <a href="docs/media-index.md#images">all five coverage studies</a>
 
-## Sketching
+## Sketches
 
 ![Growth sketch review](media/gif/growth-sketch-review.gif)
+
+<sub>Growing-mushroom sketches. Creative director: Elise Fulcher.</sub>
 
 ![Supplied NATURAE foliage reference](media/images/reference-naturae.jpg)
 
