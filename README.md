@@ -1,8 +1,8 @@
 # Palm
 
-**Growth, color and a botanical identity. Maison d’Atelier.**
+**Procedural growth and color in Houdini SideFX. Maison d’Atelier.**
 
-## Growth Tests
+## Growth Tests in Houdini
 
 ![Grass coverage with exposed pale surface](media/images/grass-coverage-02.webp)
 ![Dense grass coverage](media/images/grass-coverage-03.webp)
@@ -30,7 +30,7 @@ Creative direction includes Elise Fulcher.
 
 The sketches are about rhythm. A uniform spread feels too even; the interest is in where the growth gathers and where it leaves a pause.
 
-## Procedural Color
+## Procedural Color in Houdini
 
 ![Houdini attribute-driven color and render test](media/images/houdini-variant-color.webp)
 
