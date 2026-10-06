@@ -49,7 +49,7 @@ Color changes the attitude of the mark. The brighter versions feel playful and a
 ![Magenta variant](media/images/final-magenta.webp)
 
 ---
-![Portfolio — palm technical](media/portfolio/palm-technical.webp)
+
 ![Portfolio — palm gallery](media/portfolio/palm-gallery.webp)
 
 ![Portfolio — palm cover](media/portfolio/palm-cover.webp)
